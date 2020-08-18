@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# VS
+*.user
+.vs
+x64
+arm64
